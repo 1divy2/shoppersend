@@ -1,0 +1,1727 @@
+{
+  "categories": [
+    {
+      "id": "cat_electronics",
+      "slug": "electronics",
+      "name": "Electronics",
+      "icon": "Smartphone"
+    },
+    {
+      "id": "cat_fashion",
+      "slug": "fashion",
+      "name": "Fashion",
+      "icon": "Shirt"
+    },
+    {
+      "id": "cat_home",
+      "slug": "home-kitchen",
+      "name": "Home & Kitchen",
+      "icon": "Sofa"
+    },
+    {
+      "id": "cat_beauty",
+      "slug": "beauty",
+      "name": "Beauty & Personal Care",
+      "icon": "Sparkles"
+    },
+    {
+      "id": "cat_grocery",
+      "slug": "grocery",
+      "name": "Grocery",
+      "icon": "ShoppingBasket"
+    },
+    {
+      "id": "cat_sports",
+      "slug": "sports-fitness",
+      "name": "Sports & Fitness",
+      "icon": "Dumbbell"
+    },
+    {
+      "id": "cat_books",
+      "slug": "books",
+      "name": "Books",
+      "icon": "BookOpen"
+    },
+    {
+      "id": "cat_toys",
+      "slug": "toys",
+      "name": "Toys & Baby",
+      "icon": "Baby"
+    }
+  ],
+  "products": [
+    {
+      "id": "prod_0001",
+      "slug": "aurora-7-wireless-earbuds",
+      "sku": "SKU-10001",
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0001.png",
+          "alt": "Aurora 7 Wireless Earbuds"
+        }
+      ],
+      "ratingAverage": 4.3,
+      "ratingCount": 18,
+      "createdAt": "2026-05-30T08:07:53.431Z",
+      "isSampleData": true,
+      "name": "Aurora 7 Wireless Earbuds",
+      "brand": "Aurora",
+      "description": "Active noise cancellation, 32-hour total battery with case, IPX5 water resistance. Bluetooth 5.3 multipoint. Includes USB-C charging cable and three silicone tip sizes.",
+      "shortDescription": "ANC wireless earbuds with 32-hour battery and multipoint pairing.",
+      "categoryId": "cat_electronics",
+      "price": 3499,
+      "mrp": 4999,
+      "stock": 42,
+      "highlights": [
+        "Active noise cancellation",
+        "32-hour battery (with case)",
+        "Bluetooth 5.3 multipoint",
+        "IPX5 water resistant",
+        "USB-C fast charging"
+      ],
+      "specifications": [
+        {
+          "group": "Audio",
+          "items": [
+            {
+              "label": "Driver",
+              "value": "10mm dynamic"
+            },
+            {
+              "label": "Codecs",
+              "value": "AAC, SBC, LDAC"
+            },
+            {
+              "label": "ANC",
+              "value": "Hybrid, up to 35dB"
+            }
+          ]
+        },
+        {
+          "group": "Battery",
+          "items": [
+            {
+              "label": "Earbuds",
+              "value": "8 hours (ANC off)"
+            },
+            {
+              "label": "With case",
+              "value": "32 hours"
+            },
+            {
+              "label": "Charging",
+              "value": "USB-C, 10 min = 2 hours"
+            }
+          ]
+        },
+        {
+          "group": "Connectivity",
+          "items": [
+            {
+              "label": "Bluetooth",
+              "value": "5.3"
+            },
+            {
+              "label": "Multipoint",
+              "value": "Yes, 2 devices"
+            },
+            {
+              "label": "Range",
+              "value": "10 m"
+            }
+          ]
+        }
+      ],
+      "attributes": [
+        {
+          "name": "Color",
+          "values": [
+            "Midnight",
+            "Pearl",
+            "Sand"
+          ]
+        }
+      ],
+      "tags": [
+        "audio",
+        "wireless",
+        "anc"
+      ]
+    },
+    {
+      "id": "prod_0002",
+      "slug": "helix-14-laptop-core-i5-16gb-512gb",
+      "sku": "SKU-10002",
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0002.png",
+          "alt": "Helix 14 Laptop \u2014 Core i5, 16GB, 512GB"
+        }
+      ],
+      "ratingAverage": 4.1,
+      "ratingCount": 9,
+      "createdAt": "2026-05-29T08:07:53.432Z",
+      "isSampleData": true,
+      "name": "Helix 14 Laptop \u2014 Core i5, 16GB, 512GB",
+      "brand": "Helix",
+      "description": "14-inch FHD IPS display, Intel Core i5 12th-gen, 16GB DDR4, 512GB NVMe SSD. Backlit keyboard, fingerprint reader, 1.4 kg chassis. Ships with a 1-year manufacturer warranty.",
+      "shortDescription": "14\" thin-and-light laptop with i5, 16GB RAM, 512GB SSD.",
+      "categoryId": "cat_electronics",
+      "price": 54990,
+      "mrp": 64990,
+      "stock": 12,
+      "highlights": [
+        "Intel Core i5-1235U",
+        "16GB DDR4 RAM",
+        "512GB NVMe SSD",
+        "14\" FHD IPS display",
+        "1.4 kg",
+        "Fingerprint reader"
+      ],
+      "specifications": [
+        {
+          "group": "Processor",
+          "items": [
+            {
+              "label": "CPU",
+              "value": "Intel Core i5-1235U"
+            },
+            {
+              "label": "Cores / Threads",
+              "value": "10 / 12"
+            }
+          ]
+        },
+        {
+          "group": "Memory & Storage",
+          "items": [
+            {
+              "label": "RAM",
+              "value": "16GB DDR4-3200"
+            },
+            {
+              "label": "Storage",
+              "value": "512GB NVMe PCIe 4.0"
+            }
+          ]
+        },
+        {
+          "group": "Display",
+          "items": [
+            {
+              "label": "Size",
+              "value": "14 inch"
+            },
+            {
+              "label": "Resolution",
+              "value": "1920 \u00d7 1080"
+            },
+            {
+              "label": "Panel",
+              "value": "IPS, 300 nits"
+            }
+          ]
+        }
+      ],
+      "attributes": [
+        {
+          "name": "RAM",
+          "values": [
+            "8GB",
+            "16GB"
+          ]
+        },
+        {
+          "name": "Storage",
+          "values": [
+            "256GB",
+            "512GB",
+            "1TB"
+          ]
+        }
+      ],
+      "tags": [
+        "laptop",
+        "computing"
+      ]
+    },
+    {
+      "id": "prod_0003",
+      "slug": "nova-m2-smartwatch",
+      "sku": "SKU-10003",
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0003.png",
+          "alt": "Nova M2 Smartwatch"
+        }
+      ],
+      "ratingAverage": 4.4,
+      "ratingCount": 24,
+      "createdAt": "2026-05-28T08:07:53.432Z",
+      "isSampleData": true,
+      "name": "Nova M2 Smartwatch",
+      "brand": "Nova",
+      "description": "1.43\" AMOLED display, heart rate and SpO2, 100+ sport modes, 5 ATM water resistance, up to 10-day battery life.",
+      "shortDescription": "AMOLED smartwatch with SpO2 and 10-day battery.",
+      "categoryId": "cat_electronics",
+      "price": 4999,
+      "mrp": 7999,
+      "stock": 67,
+      "highlights": [
+        "1.43\" AMOLED, 466\u00d7466",
+        "Heart rate & SpO2",
+        "100+ sport modes",
+        "5 ATM water resistant",
+        "10-day battery"
+      ],
+      "specifications": [
+        {
+          "group": "Display",
+          "items": [
+            {
+              "label": "Type",
+              "value": "AMOLED"
+            },
+            {
+              "label": "Size",
+              "value": "1.43\""
+            }
+          ]
+        },
+        {
+          "group": "Battery",
+          "items": [
+            {
+              "label": "Typical use",
+              "value": "10 days"
+            },
+            {
+              "label": "GPS use",
+              "value": "20 hours"
+            }
+          ]
+        }
+      ],
+      "attributes": [
+        {
+          "name": "Color",
+          "values": [
+            "Graphite",
+            "Champagne",
+            "Navy"
+          ]
+        }
+      ],
+      "tags": [
+        "wearable",
+        "fitness"
+      ]
+    },
+    {
+      "id": "prod_0004",
+      "slug": "pulse-65w-gan-charger",
+      "sku": "SKU-10004",
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0004.png",
+          "alt": "Pulse 65W GaN Charger"
+        }
+      ],
+      "ratingAverage": 4.5,
+      "ratingCount": 31,
+      "createdAt": "2026-05-27T08:07:53.432Z",
+      "isSampleData": true,
+      "name": "Pulse 65W GaN Charger",
+      "brand": "Pulse",
+      "description": "Compact 65W GaN-II charger with two USB-C and one USB-A port. Supports PPS, PD 3.0, and QC 4.0. Foldable pins.",
+      "shortDescription": "65W three-port GaN charger with PD and PPS.",
+      "categoryId": "cat_electronics",
+      "price": 1299,
+      "mrp": 1999,
+      "stock": 120,
+      "highlights": [
+        "65W total output",
+        "2\u00d7 USB-C + 1\u00d7 USB-A",
+        "PD 3.0, PPS, QC 4.0",
+        "Foldable pins",
+        "GaN-II chipset"
+      ],
+      "specifications": [
+        {
+          "group": "Output",
+          "items": [
+            {
+              "label": "USB-C1",
+              "value": "Up to 65W PD"
+            },
+            {
+              "label": "USB-C2",
+              "value": "Up to 30W PD"
+            }
+          ]
+        }
+      ],
+      "attributes": [],
+      "tags": [
+        "accessory",
+        "charger"
+      ]
+    },
+    {
+      "id": "prod_0005",
+      "slug": "everyday-crew-tee-heavyweight-cotton",
+      "sku": "SKU-10005",
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0005.png",
+          "alt": "Everyday Crew Tee \u2014 Heavyweight Cotton"
+        }
+      ],
+      "ratingAverage": 4.2,
+      "ratingCount": 14,
+      "createdAt": "2026-05-26T08:07:53.432Z",
+      "isSampleData": true,
+      "name": "Everyday Crew Tee \u2014 Heavyweight Cotton",
+      "brand": "Loomwell",
+      "description": "230 GSM combed cotton, double-stitched hems, pre-shrunk. Relaxed fit. Made in a Fair Trade certified facility.",
+      "shortDescription": "230 GSM heavyweight combed cotton crew-neck tee.",
+      "categoryId": "cat_fashion",
+      "price": 799,
+      "mrp": 1299,
+      "stock": 200,
+      "highlights": [
+        "230 GSM heavyweight cotton",
+        "Pre-shrunk and bio-washed",
+        "Double-stitched hems",
+        "Relaxed fit",
+        "Fair Trade certified"
+      ],
+      "specifications": [
+        {
+          "group": "Material",
+          "items": [
+            {
+              "label": "Fabric",
+              "value": "100% combed cotton, 230 GSM"
+            },
+            {
+              "label": "Care",
+              "value": "Machine wash cold, tumble dry low"
+            }
+          ]
+        }
+      ],
+      "attributes": [
+        {
+          "name": "Size",
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+          ]
+        },
+        {
+          "name": "Color",
+          "values": [
+            "Black",
+            "White",
+            "Olive",
+            "Navy",
+            "Sand"
+          ]
+        }
+      ],
+      "tags": [
+        "apparel",
+        "tee",
+        "essentials"
+      ]
+    },
+    {
+      "id": "prod_0006",
+      "slug": "trailline-running-shoes",
+      "sku": "SKU-10006",
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0006.png",
+          "alt": "Trailline Running Shoes"
+        }
+      ],
+      "ratingAverage": 4,
+      "ratingCount": 11,
+      "createdAt": "2026-05-25T08:07:53.432Z",
+      "isSampleData": true,
+      "name": "Trailline Running Shoes",
+      "brand": "Stride",
+      "description": "EVA midsole with TPU heel counter, breathable engineered mesh upper, 8mm drop. Suitable for road and light trail.",
+      "shortDescription": "Cushioned road-to-trail running shoes, 8mm drop.",
+      "categoryId": "cat_fashion",
+      "price": 3299,
+      "mrp": 4499,
+      "stock": 58,
+      "highlights": [
+        "EVA midsole, 8mm drop",
+        "Engineered mesh upper",
+        "TPU heel counter",
+        "Removable insole"
+      ],
+      "specifications": [
+        {
+          "group": "Construction",
+          "items": [
+            {
+              "label": "Upper",
+              "value": "Engineered mesh"
+            },
+            {
+              "label": "Midsole",
+              "value": "EVA"
+            },
+            {
+              "label": "Outsole",
+              "value": "Rubber, lugged"
+            }
+          ]
+        }
+      ],
+      "attributes": [
+        {
+          "name": "Size",
+          "values": [
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11"
+          ]
+        },
+        {
+          "name": "Color",
+          "values": [
+            "Black/Lime",
+            "Grey/Coral"
+          ]
+        }
+      ],
+      "tags": [
+        "footwear",
+        "running"
+      ]
+    },
+    {
+      "id": "prod_0007",
+      "slug": "cassidy-leather-belt",
+      "sku": "SKU-10007",
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0007.png",
+          "alt": "Cassidy Leather Belt"
+        }
+      ],
+      "ratingAverage": 4.6,
+      "ratingCount": 8,
+      "createdAt": "2026-05-24T08:07:53.432Z",
+      "isSampleData": true,
+      "name": "Cassidy Leather Belt",
+      "brand": "Mercer",
+      "description": "Full-grain leather, brushed steel buckle, hand-finished edges. 35mm width.",
+      "shortDescription": "Full-grain leather belt, 35mm, brushed steel buckle.",
+      "categoryId": "cat_fashion",
+      "price": 1499,
+      "mrp": 2299,
+      "stock": 75,
+      "highlights": [
+        "Full-grain leather",
+        "Brushed steel buckle",
+        "Hand-finished edges",
+        "35mm width"
+      ],
+      "specifications": [
+        {
+          "group": "Material",
+          "items": [
+            {
+              "label": "Leather",
+              "value": "Full-grain bovine"
+            }
+          ]
+        }
+      ],
+      "attributes": [
+        {
+          "name": "Size",
+          "values": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+          ]
+        },
+        {
+          "name": "Color",
+          "values": [
+            "Tan",
+            "Black",
+            "Brown"
+          ]
+        }
+      ],
+      "tags": [
+        "accessory",
+        "leather"
+      ]
+    },
+    {
+      "id": "prod_0008",
+      "slug": "brew-pour-stainless-kettle-1-7l",
+      "sku": "SKU-10008",
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0008.png",
+          "alt": "Brew & Pour Stainless Kettle 1.7L"
+        }
+      ],
+      "ratingAverage": 4.3,
+      "ratingCount": 22,
+      "createdAt": "2026-05-23T08:07:53.432Z",
+      "isSampleData": true,
+      "name": "Brew & Pour Stainless Kettle 1.7L",
+      "brand": "Hearth",
+      "description": "1500W stainless steel kettle with auto shut-off, boil-dry protection, and a removable mesh filter.",
+      "shortDescription": "1.7L stainless electric kettle with auto shut-off.",
+      "categoryId": "cat_home",
+      "price": 1799,
+      "mrp": 2499,
+      "stock": 89,
+      "highlights": [
+        "1500W rapid boil",
+        "1.7L capacity",
+        "Auto shut-off & boil-dry protection",
+        "Removable filter",
+        "360\u00b0 swivel base"
+      ],
+      "specifications": [
+        {
+          "group": "Power",
+          "items": [
+            {
+              "label": "Wattage",
+              "value": "1500W"
+            },
+            {
+              "label": "Voltage",
+              "value": "220-240V"
+            }
+          ]
+        }
+      ],
+      "attributes": [],
+      "tags": [
+        "kitchen",
+        "appliance"
+      ]
+    },
+    {
+      "id": "prod_0009",
+      "slug": "linen-throw-pillow-cover-set-of-2",
+      "sku": "SKU-10009",
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0009.png",
+          "alt": "Linen Throw Pillow Cover (Set of 2)"
+        }
+      ],
+      "ratingAverage": 4.5,
+      "ratingCount": 16,
+      "createdAt": "2026-05-22T08:07:53.432Z",
+      "isSampleData": true,
+      "name": "Linen Throw Pillow Cover (Set of 2)",
+      "brand": "Aria Home",
+      "description": "100% washed linen, hidden YKK zipper, 18x18 inches. Sold as a set of two.",
+      "shortDescription": "Set of 2 washed linen pillow covers, 18x18.",
+      "categoryId": "cat_home",
+      "price": 999,
+      "mrp": 1599,
+      "stock": 130,
+      "highlights": [
+        "100% washed linen",
+        "Hidden YKK zipper",
+        "18\" \u00d7 18\"",
+        "Set of 2"
+      ],
+      "specifications": [
+        {
+          "group": "Material",
+          "items": [
+            {
+              "label": "Fabric",
+              "value": "100% linen, stonewashed"
+            }
+          ]
+        }
+      ],
+      "attributes": [
+        {
+          "name": "Color",
+          "values": [
+            "Oatmeal",
+            "Sage",
+            "Charcoal",
+            "Terracotta"
+          ]
+        }
+      ],
+      "tags": [
+        "home",
+        "decor"
+      ]
+    },
+    {
+      "id": "prod_0010",
+      "slug": "cast-iron-skillet-26cm-pre-seasoned",
+      "sku": "SKU-10010",
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0010.png",
+          "alt": "Cast Iron Skillet 26cm \u2014 Pre-Seasoned"
+        }
+      ],
+      "ratingAverage": 4.7,
+      "ratingCount": 19,
+      "createdAt": "2026-05-21T08:07:53.432Z",
+      "isSampleData": true,
+      "name": "Cast Iron Skillet 26cm \u2014 Pre-Seasoned",
+      "brand": "Forge",
+      "description": "Heavy-duty cast iron skillet, pre-seasoned with flaxseed oil. Oven and induction safe.",
+      "shortDescription": "26cm pre-seasoned cast iron skillet.",
+      "categoryId": "cat_home",
+      "price": 1299,
+      "mrp": 1899,
+      "stock": 44,
+      "highlights": [
+        "26cm diameter",
+        "Pre-seasoned",
+        "Induction & oven safe",
+        "Lifetime usable with care"
+      ],
+      "specifications": [
+        {
+          "group": "Dimensions",
+          "items": [
+            {
+              "label": "Diameter",
+              "value": "26 cm"
+            },
+            {
+              "label": "Weight",
+              "value": "2.3 kg"
+            }
+          ]
+        }
+      ],
+      "attributes": [],
+      "tags": [
+        "cookware"
+      ]
+    },
+    {
+      "id": "prod_0011",
+      "slug": "hydra-calm-face-moisturizer-50ml",
+      "sku": "SKU-10011",
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0011.png",
+          "alt": "Hydra-Calm Face Moisturizer 50ml"
+        }
+      ],
+      "ratingAverage": 4.4,
+      "ratingCount": 27,
+      "createdAt": "2026-05-20T08:07:53.432Z",
+      "isSampleData": true,
+      "name": "Hydra-Calm Face Moisturizer 50ml",
+      "brand": "Verda",
+      "description": "Lightweight gel-cream with niacinamide 4%, panthenol, and ceramides. Fragrance-free.",
+      "shortDescription": "Niacinamide & ceramide gel-cream moisturizer.",
+      "categoryId": "cat_beauty",
+      "price": 749,
+      "mrp": 999,
+      "stock": 95,
+      "highlights": [
+        "Niacinamide 4%",
+        "Ceramides + panthenol",
+        "Fragrance-free",
+        "Non-comedogenic"
+      ],
+      "specifications": [
+        {
+          "group": "Details",
+          "items": [
+            {
+              "label": "Volume",
+              "value": "50 ml"
+            },
+            {
+              "label": "Skin type",
+              "value": "All, including sensitive"
+            }
+          ]
+        }
+      ],
+      "attributes": [],
+      "tags": [
+        "skincare"
+      ]
+    },
+    {
+      "id": "prod_0012",
+      "slug": "cold-brew-coffee-concentrate-500ml",
+      "sku": "SKU-10012",
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0012.png",
+          "alt": "Cold-Brew Coffee Concentrate 500ml"
+        }
+      ],
+      "ratingAverage": 4.6,
+      "ratingCount": 13,
+      "createdAt": "2026-05-19T08:07:53.432Z",
+      "isSampleData": true,
+      "name": "Cold-Brew Coffee Concentrate 500ml",
+      "brand": "Slowpour",
+      "description": "Single-origin Arabica beans, 16-hour cold extraction. Unsweetened. Refrigerate after opening.",
+      "shortDescription": "Unsweetened single-origin cold-brew concentrate, 500ml.",
+      "categoryId": "cat_grocery",
+      "price": 449,
+      "mrp": 549,
+      "stock": 80,
+      "highlights": [
+        "100% Arabica, single-origin",
+        "16-hour cold extraction",
+        "Unsweetened",
+        "Makes 10 cups"
+      ],
+      "specifications": [
+        {
+          "group": "Details",
+          "items": [
+            {
+              "label": "Volume",
+              "value": "500 ml"
+            },
+            {
+              "label": "Shelf life",
+              "value": "14 days refrigerated after opening"
+            }
+          ]
+        }
+      ],
+      "attributes": [],
+      "tags": [
+        "coffee",
+        "beverage"
+      ]
+    },
+    {
+      "id": "prod_0013",
+      "slug": "pr-2-adjustable-dumbbell-24kg",
+      "sku": "SKU-10013",
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0013.png",
+          "alt": "PR-2 Adjustable Dumbbell \u2014 24kg"
+        }
+      ],
+      "ratingAverage": 4.5,
+      "ratingCount": 7,
+      "createdAt": "2026-05-18T08:07:53.432Z",
+      "isSampleData": true,
+      "name": "PR-2 Adjustable Dumbbell \u2014 24kg",
+      "brand": "Ironform",
+      "description": "Adjustable from 2.5 to 24kg in 1.25kg increments. Quick-twist handle, steel weight plates.",
+      "shortDescription": "Quick-adjust 24kg dumbbell, 1.25kg increments.",
+      "categoryId": "cat_sports",
+      "price": 8999,
+      "mrp": 12999,
+      "stock": 18,
+      "highlights": [
+        "2.5kg\u201324kg range",
+        "1.25kg increments",
+        "Quick-twist mechanism",
+        "Steel plates with knurled handle"
+      ],
+      "specifications": [
+        {
+          "group": "Specs",
+          "items": [
+            {
+              "label": "Max weight",
+              "value": "24 kg"
+            },
+            {
+              "label": "Increment",
+              "value": "1.25 kg"
+            }
+          ]
+        }
+      ],
+      "attributes": [],
+      "tags": [
+        "fitness",
+        "strength"
+      ]
+    },
+    {
+      "id": "prod_0014",
+      "slug": "the-quiet-algorithm-paperback",
+      "sku": "SKU-10014",
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0014.png",
+          "alt": "The Quiet Algorithm \u2014 Paperback"
+        }
+      ],
+      "ratingAverage": 4.2,
+      "ratingCount": 5,
+      "createdAt": "2026-05-17T08:07:53.432Z",
+      "isSampleData": true,
+      "name": "The Quiet Algorithm \u2014 Paperback",
+      "brand": "Northbound Press",
+      "description": "A 320-page novel exploring memory and machine cognition. Paperback, B-format.",
+      "shortDescription": "Literary fiction, 320 pages, paperback.",
+      "categoryId": "cat_books",
+      "price": 399,
+      "mrp": 499,
+      "stock": 60,
+      "highlights": [
+        "320 pages",
+        "Paperback, B-format",
+        "Published 2024"
+      ],
+      "specifications": [
+        {
+          "group": "Details",
+          "items": [
+            {
+              "label": "ISBN",
+              "value": "978-0-00-000000-0 (sample)"
+            },
+            {
+              "label": "Language",
+              "value": "English"
+            }
+          ]
+        }
+      ],
+      "attributes": [],
+      "tags": [
+        "fiction"
+      ]
+    },
+    {
+      "id": "prod_0015",
+      "slug": "wooden-building-blocks-100-pieces",
+      "sku": "SKU-10015",
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0015.png",
+          "alt": "Wooden Building Blocks \u2014 100 pieces"
+        }
+      ],
+      "ratingAverage": 4.8,
+      "ratingCount": 12,
+      "createdAt": "2026-05-16T08:07:53.432Z",
+      "isSampleData": true,
+      "name": "Wooden Building Blocks \u2014 100 pieces",
+      "brand": "Brambles",
+      "description": "Natural beech wood blocks, water-based non-toxic finish. Includes drawstring cotton storage bag.",
+      "shortDescription": "100-piece beech wood block set with storage bag.",
+      "categoryId": "cat_toys",
+      "price": 1599,
+      "mrp": 2299,
+      "stock": 33,
+      "highlights": [
+        "100 pieces",
+        "Natural beech wood",
+        "Non-toxic finish",
+        "Cotton storage bag",
+        "Ages 3+"
+      ],
+      "specifications": [
+        {
+          "group": "Details",
+          "items": [
+            {
+              "label": "Pieces",
+              "value": "100"
+            },
+            {
+              "label": "Material",
+              "value": "Beech wood"
+            }
+          ]
+        }
+      ],
+      "attributes": [],
+      "tags": [
+        "kids",
+        "toys"
+      ]
+    },
+    {
+      "id": "prod_0016",
+      "slug": "ultravision-4k-monitor",
+      "name": "UltraVision 4K Monitor",
+      "brand": "UltraVision",
+      "categoryId": "cat_electronics",
+      "shortDescription": "High quality UltraVision 4K Monitor by UltraVision.",
+      "description": "Experience the best with the UltraVision 4K Monitor. Designed for excellence and everyday use.",
+      "price": 299.99,
+      "mrp": 399.99,
+      "stock": 45,
+      "rating": 4.5,
+      "reviews": 324,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0016.png",
+          "alt": "UltraVision 4K Monitor"
+        }
+      ]
+    },
+    {
+      "id": "prod_0017",
+      "slug": "gamerpro-mechanical-keyboard",
+      "name": "GamerPro Mechanical Keyboard",
+      "brand": "GamerPro",
+      "categoryId": "cat_electronics",
+      "shortDescription": "High quality GamerPro Mechanical Keyboard by GamerPro.",
+      "description": "Experience the best with the GamerPro Mechanical Keyboard. Designed for excellence and everyday use.",
+      "price": 89.99,
+      "mrp": 129.99,
+      "stock": 100,
+      "rating": 4.0,
+      "reviews": 89,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0017.png",
+          "alt": "GamerPro Mechanical Keyboard"
+        }
+      ]
+    },
+    {
+      "id": "prod_0018",
+      "slug": "sonicboom-bluetooth-speaker",
+      "name": "SonicBoom Bluetooth Speaker",
+      "brand": "SonicBoom",
+      "categoryId": "cat_electronics",
+      "shortDescription": "High quality SonicBoom Bluetooth Speaker by SonicBoom.",
+      "description": "Experience the best with the SonicBoom Bluetooth Speaker. Designed for excellence and everyday use.",
+      "price": 59.99,
+      "mrp": 79.99,
+      "stock": 200,
+      "rating": 4.7,
+      "reviews": 462,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0018.png",
+          "alt": "SonicBoom Bluetooth Speaker"
+        }
+      ]
+    },
+    {
+      "id": "prod_0019",
+      "slug": "ergomouse-wireless",
+      "name": "ErgoMouse Wireless",
+      "brand": "ErgoTech",
+      "categoryId": "cat_electronics",
+      "shortDescription": "High quality ErgoMouse Wireless by ErgoTech.",
+      "description": "Experience the best with the ErgoMouse Wireless. Designed for excellence and everyday use.",
+      "price": 35.0,
+      "mrp": 45.0,
+      "stock": 150,
+      "rating": 4.8,
+      "reviews": 481,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0019.png",
+          "alt": "ErgoMouse Wireless"
+        }
+      ]
+    },
+    {
+      "id": "prod_0020",
+      "slug": "powerbank-20000mah",
+      "name": "PowerBank 20000mAh",
+      "brand": "ChargeMaster",
+      "categoryId": "cat_electronics",
+      "shortDescription": "High quality PowerBank 20000mAh by ChargeMaster.",
+      "description": "Experience the best with the PowerBank 20000mAh. Designed for excellence and everyday use.",
+      "price": 49.99,
+      "mrp": 59.99,
+      "stock": 80,
+      "rating": 4.7,
+      "reviews": 381,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0020.png",
+          "alt": "PowerBank 20000mAh"
+        }
+      ]
+    },
+    {
+      "id": "prod_0021",
+      "slug": "classic-denim-jacket",
+      "name": "Classic Denim Jacket",
+      "brand": "Levis",
+      "categoryId": "cat_fashion",
+      "shortDescription": "High quality Classic Denim Jacket by Levis.",
+      "description": "Experience the best with the Classic Denim Jacket. Designed for excellence and everyday use.",
+      "price": 79.99,
+      "mrp": 99.99,
+      "stock": 60,
+      "rating": 4.7,
+      "reviews": 85,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0021.png",
+          "alt": "Classic Denim Jacket"
+        }
+      ]
+    },
+    {
+      "id": "prod_0022",
+      "slug": "vintage-sunglasses",
+      "name": "Vintage Sunglasses",
+      "brand": "RayBan",
+      "categoryId": "cat_fashion",
+      "shortDescription": "High quality Vintage Sunglasses by RayBan.",
+      "description": "Experience the best with the Vintage Sunglasses. Designed for excellence and everyday use.",
+      "price": 120.0,
+      "mrp": 150.0,
+      "stock": 30,
+      "rating": 4.2,
+      "reviews": 190,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0022.png",
+          "alt": "Vintage Sunglasses"
+        }
+      ]
+    },
+    {
+      "id": "prod_0023",
+      "slug": "sneakers-x-pro",
+      "name": "Sneakers X-Pro",
+      "brand": "Nike",
+      "categoryId": "cat_fashion",
+      "shortDescription": "High quality Sneakers X-Pro by Nike.",
+      "description": "Experience the best with the Sneakers X-Pro. Designed for excellence and everyday use.",
+      "price": 110.0,
+      "mrp": 130.0,
+      "stock": 120,
+      "rating": 4.7,
+      "reviews": 156,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0023.png",
+          "alt": "Sneakers X-Pro"
+        }
+      ]
+    },
+    {
+      "id": "prod_0024",
+      "slug": "minimalist-leather-wallet",
+      "name": "Minimalist Leather Wallet",
+      "brand": "Fossil",
+      "categoryId": "cat_fashion",
+      "shortDescription": "High quality Minimalist Leather Wallet by Fossil.",
+      "description": "Experience the best with the Minimalist Leather Wallet. Designed for excellence and everyday use.",
+      "price": 45.0,
+      "mrp": 60.0,
+      "stock": 90,
+      "rating": 4.4,
+      "reviews": 461,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0024.png",
+          "alt": "Minimalist Leather Wallet"
+        }
+      ]
+    },
+    {
+      "id": "prod_0025",
+      "slug": "wool-blend-beanie",
+      "name": "Wool Blend Beanie",
+      "brand": "NorthFace",
+      "categoryId": "cat_fashion",
+      "shortDescription": "High quality Wool Blend Beanie by NorthFace.",
+      "description": "Experience the best with the Wool Blend Beanie. Designed for excellence and everyday use.",
+      "price": 25.0,
+      "mrp": 35.0,
+      "stock": 200,
+      "rating": 4.1,
+      "reviews": 318,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0025.png",
+          "alt": "Wool Blend Beanie"
+        }
+      ]
+    },
+    {
+      "id": "prod_0026",
+      "slug": "chefs-knife-8-inch",
+      "name": "Chef's Knife 8-inch",
+      "brand": "Wusthof",
+      "categoryId": "cat_home",
+      "shortDescription": "High quality Chef's Knife 8-inch by Wusthof.",
+      "description": "Experience the best with the Chef's Knife 8-inch. Designed for excellence and everyday use.",
+      "price": 129.99,
+      "mrp": 149.99,
+      "stock": 40,
+      "rating": 3.9,
+      "reviews": 183,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0026.png",
+          "alt": "Chef's Knife 8-inch"
+        }
+      ]
+    },
+    {
+      "id": "prod_0027",
+      "slug": "non-stick-frying-pan",
+      "name": "Non-Stick Frying Pan",
+      "brand": "T-fal",
+      "categoryId": "cat_home",
+      "shortDescription": "High quality Non-Stick Frying Pan by T-fal.",
+      "description": "Experience the best with the Non-Stick Frying Pan. Designed for excellence and everyday use.",
+      "price": 39.99,
+      "mrp": 59.99,
+      "stock": 85,
+      "rating": 3.7,
+      "reviews": 114,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0027.png",
+          "alt": "Non-Stick Frying Pan"
+        }
+      ]
+    },
+    {
+      "id": "prod_0028",
+      "slug": "ceramic-coffee-mug-set",
+      "name": "Ceramic Coffee Mug Set",
+      "brand": "Le Creuset",
+      "categoryId": "cat_home",
+      "shortDescription": "High quality Ceramic Coffee Mug Set by Le Creuset.",
+      "description": "Experience the best with the Ceramic Coffee Mug Set. Designed for excellence and everyday use.",
+      "price": 49.99,
+      "mrp": 65.0,
+      "stock": 110,
+      "rating": 4.2,
+      "reviews": 352,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0028.png",
+          "alt": "Ceramic Coffee Mug Set"
+        }
+      ]
+    },
+    {
+      "id": "prod_0029",
+      "slug": "bamboo-cutting-board",
+      "name": "Bamboo Cutting Board",
+      "brand": "GreenerChef",
+      "categoryId": "cat_home",
+      "shortDescription": "High quality Bamboo Cutting Board by GreenerChef.",
+      "description": "Experience the best with the Bamboo Cutting Board. Designed for excellence and everyday use.",
+      "price": 22.5,
+      "mrp": 30.0,
+      "stock": 140,
+      "rating": 4.1,
+      "reviews": 467,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0029.png",
+          "alt": "Bamboo Cutting Board"
+        }
+      ]
+    },
+    {
+      "id": "prod_0030",
+      "slug": "air-purifier-hepa",
+      "name": "Air Purifier HEPA",
+      "brand": "Coway",
+      "categoryId": "cat_home",
+      "shortDescription": "High quality Air Purifier HEPA by Coway.",
+      "description": "Experience the best with the Air Purifier HEPA. Designed for excellence and everyday use.",
+      "price": 199.99,
+      "mrp": 249.99,
+      "stock": 25,
+      "rating": 4.7,
+      "reviews": 252,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0030.png",
+          "alt": "Air Purifier HEPA"
+        }
+      ]
+    },
+    {
+      "id": "prod_0031",
+      "slug": "vitamin-c-serum",
+      "name": "Vitamin C Serum",
+      "brand": "TruSkin",
+      "categoryId": "cat_beauty",
+      "shortDescription": "High quality Vitamin C Serum by TruSkin.",
+      "description": "Experience the best with the Vitamin C Serum. Designed for excellence and everyday use.",
+      "price": 19.99,
+      "mrp": 29.99,
+      "stock": 300,
+      "rating": 4.0,
+      "reviews": 151,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0031.png",
+          "alt": "Vitamin C Serum"
+        }
+      ]
+    },
+    {
+      "id": "prod_0032",
+      "slug": "charcoal-face-mask",
+      "name": "Charcoal Face Mask",
+      "brand": "Origins",
+      "categoryId": "cat_beauty",
+      "shortDescription": "High quality Charcoal Face Mask by Origins.",
+      "description": "Experience the best with the Charcoal Face Mask. Designed for excellence and everyday use.",
+      "price": 26.0,
+      "mrp": 32.0,
+      "stock": 150,
+      "rating": 4.8,
+      "reviews": 107,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0032.png",
+          "alt": "Charcoal Face Mask"
+        }
+      ]
+    },
+    {
+      "id": "prod_0033",
+      "slug": "electric-toothbrush",
+      "name": "Electric Toothbrush",
+      "brand": "Oral-B",
+      "categoryId": "cat_beauty",
+      "shortDescription": "High quality Electric Toothbrush by Oral-B.",
+      "description": "Experience the best with the Electric Toothbrush. Designed for excellence and everyday use.",
+      "price": 89.99,
+      "mrp": 119.99,
+      "stock": 75,
+      "rating": 4.5,
+      "reviews": 74,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0033.png",
+          "alt": "Electric Toothbrush"
+        }
+      ]
+    },
+    {
+      "id": "prod_0034",
+      "slug": "argan-oil-hair-serum",
+      "name": "Argan Oil Hair Serum",
+      "brand": "Moroccanoil",
+      "categoryId": "cat_beauty",
+      "shortDescription": "High quality Argan Oil Hair Serum by Moroccanoil.",
+      "description": "Experience the best with the Argan Oil Hair Serum. Designed for excellence and everyday use.",
+      "price": 34.0,
+      "mrp": 45.0,
+      "stock": 120,
+      "rating": 3.9,
+      "reviews": 320,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0034.png",
+          "alt": "Argan Oil Hair Serum"
+        }
+      ]
+    },
+    {
+      "id": "prod_0035",
+      "slug": "matte-lipstick-set",
+      "name": "Matte Lipstick Set",
+      "brand": "MAC",
+      "categoryId": "cat_beauty",
+      "shortDescription": "High quality Matte Lipstick Set by MAC.",
+      "description": "Experience the best with the Matte Lipstick Set. Designed for excellence and everyday use.",
+      "price": 45.0,
+      "mrp": 55.0,
+      "stock": 200,
+      "rating": 4.4,
+      "reviews": 304,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0035.png",
+          "alt": "Matte Lipstick Set"
+        }
+      ]
+    },
+    {
+      "id": "prod_0036",
+      "slug": "organic-olive-oil-1l",
+      "name": "Organic Olive Oil 1L",
+      "brand": "California Olive Ranch",
+      "categoryId": "cat_grocery",
+      "shortDescription": "High quality Organic Olive Oil 1L by California Olive Ranch.",
+      "description": "Experience the best with the Organic Olive Oil 1L. Designed for excellence and everyday use.",
+      "price": 18.99,
+      "mrp": 22.99,
+      "stock": 90,
+      "rating": 3.8,
+      "reviews": 179,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0036.png",
+          "alt": "Organic Olive Oil 1L"
+        }
+      ]
+    },
+    {
+      "id": "prod_0037",
+      "slug": "himalayan-pink-salt",
+      "name": "Himalayan Pink Salt",
+      "brand": "Sherpa Pink",
+      "categoryId": "cat_grocery",
+      "shortDescription": "High quality Himalayan Pink Salt by Sherpa Pink.",
+      "description": "Experience the best with the Himalayan Pink Salt. Designed for excellence and everyday use.",
+      "price": 9.99,
+      "mrp": 12.99,
+      "stock": 400,
+      "rating": 4.3,
+      "reviews": 157,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0037.png",
+          "alt": "Himalayan Pink Salt"
+        }
+      ]
+    },
+    {
+      "id": "prod_0038",
+      "slug": "whole-bean-espresso-1lb",
+      "name": "Whole Bean Espresso 1lb",
+      "brand": "Lavazza",
+      "categoryId": "cat_grocery",
+      "shortDescription": "High quality Whole Bean Espresso 1lb by Lavazza.",
+      "description": "Experience the best with the Whole Bean Espresso 1lb. Designed for excellence and everyday use.",
+      "price": 14.5,
+      "mrp": 18.0,
+      "stock": 250,
+      "rating": 5.0,
+      "reviews": 301,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0038.png",
+          "alt": "Whole Bean Espresso 1lb"
+        }
+      ]
+    },
+    {
+      "id": "prod_0039",
+      "slug": "raw-wild-honey",
+      "name": "Raw Wild Honey",
+      "brand": "Nature Nate's",
+      "categoryId": "cat_grocery",
+      "shortDescription": "High quality Raw Wild Honey by Nature Nate's.",
+      "description": "Experience the best with the Raw Wild Honey. Designed for excellence and everyday use.",
+      "price": 12.99,
+      "mrp": 15.99,
+      "stock": 180,
+      "rating": 4.3,
+      "reviews": 86,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0039.png",
+          "alt": "Raw Wild Honey"
+        }
+      ]
+    },
+    {
+      "id": "prod_0040",
+      "slug": "quinoa-organic-2lbs",
+      "name": "Quinoa Organic 2lbs",
+      "brand": "Lundberg",
+      "categoryId": "cat_grocery",
+      "shortDescription": "High quality Quinoa Organic 2lbs by Lundberg.",
+      "description": "Experience the best with the Quinoa Organic 2lbs. Designed for excellence and everyday use.",
+      "price": 11.5,
+      "mrp": 14.0,
+      "stock": 130,
+      "rating": 4.5,
+      "reviews": 486,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0040.png",
+          "alt": "Quinoa Organic 2lbs"
+        }
+      ]
+    },
+    {
+      "id": "prod_0041",
+      "slug": "yoga-mat-with-alignment-lines",
+      "name": "Yoga Mat with Alignment Lines",
+      "brand": "Liforme",
+      "categoryId": "cat_sports",
+      "shortDescription": "High quality Yoga Mat with Alignment Lines by Liforme.",
+      "description": "Experience the best with the Yoga Mat with Alignment Lines. Designed for excellence and everyday use.",
+      "price": 140.0,
+      "mrp": 150.0,
+      "stock": 60,
+      "rating": 3.8,
+      "reviews": 386,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0041.png",
+          "alt": "Yoga Mat with Alignment Lines"
+        }
+      ]
+    },
+    {
+      "id": "prod_0042",
+      "slug": "resistance-bands-set",
+      "name": "Resistance Bands Set",
+      "brand": "FitSimplify",
+      "categoryId": "cat_sports",
+      "shortDescription": "High quality Resistance Bands Set by FitSimplify.",
+      "description": "Experience the best with the Resistance Bands Set. Designed for excellence and everyday use.",
+      "price": 12.99,
+      "mrp": 19.99,
+      "stock": 350,
+      "rating": 4.4,
+      "reviews": 104,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0042.png",
+          "alt": "Resistance Bands Set"
+        }
+      ]
+    },
+    {
+      "id": "prod_0043",
+      "slug": "whey-protein-powder-5lbs",
+      "name": "Whey Protein Powder 5lbs",
+      "brand": "Optimum Nutrition",
+      "categoryId": "cat_sports",
+      "shortDescription": "High quality Whey Protein Powder 5lbs by Optimum Nutrition.",
+      "description": "Experience the best with the Whey Protein Powder 5lbs. Designed for excellence and everyday use.",
+      "price": 64.99,
+      "mrp": 79.99,
+      "stock": 90,
+      "rating": 4.4,
+      "reviews": 361,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0043.png",
+          "alt": "Whey Protein Powder 5lbs"
+        }
+      ]
+    },
+    {
+      "id": "prod_0044",
+      "slug": "stainless-steel-water-bottle",
+      "name": "Stainless Steel Water Bottle",
+      "brand": "Hydro Flask",
+      "categoryId": "cat_sports",
+      "shortDescription": "High quality Stainless Steel Water Bottle by Hydro Flask.",
+      "description": "Experience the best with the Stainless Steel Water Bottle. Designed for excellence and everyday use.",
+      "price": 39.95,
+      "mrp": 44.95,
+      "stock": 110,
+      "rating": 4.6,
+      "reviews": 269,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0044.png",
+          "alt": "Stainless Steel Water Bottle"
+        }
+      ]
+    },
+    {
+      "id": "prod_0045",
+      "slug": "jump-rope-tangle-free",
+      "name": "Jump Rope Tangle-Free",
+      "brand": "WOD Nation",
+      "categoryId": "cat_sports",
+      "shortDescription": "High quality Jump Rope Tangle-Free by WOD Nation.",
+      "description": "Experience the best with the Jump Rope Tangle-Free. Designed for excellence and everyday use.",
+      "price": 15.0,
+      "mrp": 20.0,
+      "stock": 200,
+      "rating": 4.9,
+      "reviews": 225,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0045.png",
+          "alt": "Jump Rope Tangle-Free"
+        }
+      ]
+    },
+    {
+      "id": "prod_0046",
+      "slug": "atomic-habits",
+      "name": "Atomic Habits",
+      "brand": "Avery",
+      "categoryId": "cat_books",
+      "shortDescription": "High quality Atomic Habits by Avery.",
+      "description": "Experience the best with the Atomic Habits. Designed for excellence and everyday use.",
+      "price": 11.98,
+      "mrp": 16.0,
+      "stock": 500,
+      "rating": 4.4,
+      "reviews": 46,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0046.png",
+          "alt": "Atomic Habits"
+        }
+      ]
+    },
+    {
+      "id": "prod_0047",
+      "slug": "sapiens:-a-brief-history",
+      "name": "Sapiens: A Brief History",
+      "brand": "Harper",
+      "categoryId": "cat_books",
+      "shortDescription": "High quality Sapiens: A Brief History by Harper.",
+      "description": "Experience the best with the Sapiens: A Brief History. Designed for excellence and everyday use.",
+      "price": 14.99,
+      "mrp": 22.99,
+      "stock": 320,
+      "rating": 4.8,
+      "reviews": 190,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0047.png",
+          "alt": "Sapiens: A Brief History"
+        }
+      ]
+    },
+    {
+      "id": "prod_0048",
+      "slug": "the-great-gatsby",
+      "name": "The Great Gatsby",
+      "brand": "Scribner",
+      "categoryId": "cat_books",
+      "shortDescription": "High quality The Great Gatsby by Scribner.",
+      "description": "Experience the best with the The Great Gatsby. Designed for excellence and everyday use.",
+      "price": 10.5,
+      "mrp": 15.0,
+      "stock": 150,
+      "rating": 4.3,
+      "reviews": 482,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0048.png",
+          "alt": "The Great Gatsby"
+        }
+      ]
+    },
+    {
+      "id": "prod_0049",
+      "slug": "lego-classic-creative-brick-box",
+      "name": "LEGO Classic Creative Brick Box",
+      "brand": "LEGO",
+      "categoryId": "cat_toys",
+      "shortDescription": "High quality LEGO Classic Creative Brick Box by LEGO.",
+      "description": "Experience the best with the LEGO Classic Creative Brick Box. Designed for excellence and everyday use.",
+      "price": 27.99,
+      "mrp": 34.99,
+      "stock": 80,
+      "rating": 4.2,
+      "reviews": 132,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0049.png",
+          "alt": "LEGO Classic Creative Brick Box"
+        }
+      ]
+    },
+    {
+      "id": "prod_0050",
+      "slug": "magnetic-tiles-starter-set",
+      "name": "Magnetic Tiles Starter Set",
+      "brand": "Magna-Tiles",
+      "categoryId": "cat_toys",
+      "shortDescription": "High quality Magnetic Tiles Starter Set by Magna-Tiles.",
+      "description": "Experience the best with the Magnetic Tiles Starter Set. Designed for excellence and everyday use.",
+      "price": 49.99,
+      "mrp": 59.99,
+      "stock": 65,
+      "rating": 3.9,
+      "reviews": 67,
+      "images": [
+        {
+          "id": "img_0",
+          "url": "/images/products/prod_0050.png",
+          "alt": "Magnetic Tiles Starter Set"
+        }
+      ]
+    }
+  ]
+}
