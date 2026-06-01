@@ -57,9 +57,10 @@ export const api = {
 
 export const httpTransport: Transport = {
   async request(path, { method = "GET", body, query, headers }) {
-    // 1. Construct URL (the Vite proxy handles /api -> localhost:8081 on client)
+    // 1. Construct URL
     const isBrowser = typeof window !== "undefined";
-    const baseUrl = isBrowser ? window.location.origin : "http://localhost:8081";
+    const envApiUrl = import.meta.env.VITE_API_URL;
+    const baseUrl = envApiUrl ? envApiUrl : (isBrowser ? window.location.origin : "http://localhost:8081");
     const url = new URL(path, baseUrl);
     if (query) {
       for (const [k, v] of Object.entries(query)) {
