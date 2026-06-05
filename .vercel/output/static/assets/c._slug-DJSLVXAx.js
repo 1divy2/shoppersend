@@ -1,0 +1,1 @@
+import{c as i,z as t,N as e,k as n}from"./index-Bu-Y1KXS.js";import{u}from"./useQuery-94LS1z9C.js";import"./useBaseQuery-CWyGkscm.js";function f(){const{slug:r}=i.useParams(),{data:a,isLoading:o}=u(n());if(o)return null;const s=a?.find(c=>c.slug===r);return s?t.jsx(e,{to:"/search",search:{categoryId:s.id}}):t.jsx(e,{to:"/search",search:{q:r}})}export{f as component};
